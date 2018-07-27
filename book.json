@@ -1,0 +1,6 @@
+{
+    "title": "JavaScript高程3笔记",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": ["-lunr", "-search", "search-plus"]
+}
