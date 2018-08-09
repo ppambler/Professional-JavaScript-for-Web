@@ -10,7 +10,8 @@
   * [本书结构](./A1-序+前言/本书结构.md)
   * [一些辅助](./A1-序+前言/一些辅助.md)
 * [Ch01](./Ch01/README.md)
-  * [JavaScript简史](./Ch01/JavaScript简史.md) 
+  * [JavaScript简史](./Ch01/1.1 JavaScript简史.md) 
+  * [JavaScript实现](./Ch01/1.2 JavaScript实现.md)
 
 
 
