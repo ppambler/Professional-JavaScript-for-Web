@@ -12,6 +12,7 @@
 * [Ch01](./Ch01/README.md)
   * [JavaScript简史](./Ch01/1.1 JavaScript简史.md) 
   * [JavaScript实现](./Ch01/1.2 JavaScript实现.md)
+  * [DOM](./Ch01/1.2.2 DOM.md)
 
 
 
