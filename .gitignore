@@ -2,4 +2,4 @@
 _book
 .DS_Store
 node_modules
-/*/*.md
+Ch01/*.md
