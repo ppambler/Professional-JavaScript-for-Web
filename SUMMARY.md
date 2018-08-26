@@ -16,6 +16,8 @@
   * [BOM](./Ch01/1.2.3 BOM.md)
   * [JavaScript版本](./Ch01/1.3 JavaScript版本.md)
   * [小结](./Ch01/1.4 小结.md)
+* [Ch02](./Ch02/README.md)
+  * [script元素](./Ch02/2.1 script元素.md)
 
 
 
