@@ -18,6 +18,7 @@
   * [小结](./Ch01/1.4 小结.md)
 * [Ch02](./Ch02/README.md)
   * [script元素](./Ch02/2.1 script元素.md)
+  * [script元素](./Ch02/2.1.1~2.1.5 script元素的补充.md)
 
 
 
