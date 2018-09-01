@@ -20,6 +20,9 @@
   * [script元素](./Ch02/2.1 script元素.md)
   * [script元素-plus](./Ch02/2.1.1~2.1.5 script元素的补充.md)
   * [剩下的内容](./Ch02/2.2~2.5 剩下的内容.md)
+* [Ch03](./Ch03/README.md)
+  * [语法](./Ch03/3.1 语法.md)
+  * 
 
 
 
